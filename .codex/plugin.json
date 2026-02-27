@@ -1,0 +1,15 @@
+{
+  "name": "choochoo",
+  "displayName": "choochoo",
+  "description": "Provider-agnostic agent skills: handoff, context-manager, doc-gen, architecture, refactor, planner, planner-mini for intentional context control",
+  "version": "1.0.1",
+  "author": {
+    "name": "kahanscious",
+    "email": "kahanscious@gmail.com"
+  },
+  "homepage": "https://github.com/kahanscious/choochoo",
+  "repository": "https://github.com/kahanscious/choochoo",
+  "license": "MIT",
+  "keywords": ["skills", "context", "handoff", "context-manager", "workflows", "doc-gen", "architecture", "refactor", "planner"],
+  "skills": "./skills/"
+}
