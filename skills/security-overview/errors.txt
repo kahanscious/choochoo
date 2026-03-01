@@ -1,0 +1,83 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, '.'); from security_overview import SecurityOverview; print('Python file is syntactically valid')
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alex/choochoo/choochoo/skills/security-overview/security_overview.py", line 470
+    def check_audit_logging(self):
+                                  ^
+IndentationError: unindent does not match any outer indentation level
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, '.'); from security_overview import SecurityOverview; print('Python file is syntactically valid')
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'SecurityOverview' from 'security_overview' (/Users/alex/choochoo/choochoo/skills/security-overview/security_overview.py)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, '.'); from security_overview import SecurityOverview; print('Python file is syntactically valid')
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'SecurityOverview' from 'security_overview' (/Users/alex/choochoo/choochoo/skills/security-overview/security_overview.py)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, '.'); from security_overview import SecurityOverview; print('Python file is syntactically valid')
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'SecurityOverview' from 'security_overview' (/Users/alex/choochoo/choochoo/skills/security-overview/security_overview.py)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, '.'); from security_overview import SecurityOverview; print('Python file is syntactically valid')
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'SecurityOverview' from 'security_overview' (/Users/alex/choochoo/choochoo/skills/security-overview/security_overview.py)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, '.'); from security_overview import SecurityOverview; print('Python file is syntactically valid')
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'SecurityOverview' from 'security_overview' (/Users/alex/choochoo/choochoo/skills/security-overview/security_overview.py)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, '.'); from security_overview import SecurityOverview; print('Python file is syntactically valid')
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'SecurityOverview' from 'security_overview' (/Users/alex/choochoo/choochoo/skills/security-overview/security_overview.py)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, '.'); from security_overview import SecurityOverview; print('Python file is syntactically valid')
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'SecurityOverview' from 'security_overview' (/Users/alex/choochoo/choochoo/skills/security-overview/security_overview.py)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, '.'); from security_overview import SecurityOverview; print('Python file is syntactically valid')
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'SecurityOverview' from 'security_overview' (/Users/alex/choochoo/choochoo/skills/security-overview/security_overview.py)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, '.'); from security_overview import SecurityOverview; print('Python file is syntactically valid')
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'SecurityOverview' from 'security_overview' (/Users/alex/choochoo/choochoo/skills/security-overview/security_overview.py)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, '.'); from security_overview import SecurityOverview; print('Python file is syntactically valid')
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'SecurityOverview' from 'security_overview' (/Users/alex/choochoo/choochoo/skills/security-overview/security_overview.py)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, '.'); from security_overview import SecurityOverview; print('Python file is syntactically valid')
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'SecurityOverview' from 'security_overview' (/Users/alex/choochoo/choochoo/skills/security-overview/security_overview.py)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, '.'); from security_overview import SecurityOverview; print('Python file is syntactically valid')
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'SecurityOverview' from 'security_overview' (/Users/alex/choochoo/choochoo/skills/security-overview/security_overview.py)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, '.'); from security_overview import SecurityOverview; print('Python file is syntactically valid')
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'SecurityOverview' from 'security_overview' (/Users/alex/choochoo/choochoo/skills/security-overview/security_overview.py)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, '.'); from security_overview import SecurityOverview; print('Python file is syntactically valid')
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'SecurityOverview' from 'security_overview' (/Users/alex/choochoo/choochoo/skills/security-overview/security_overview.py)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.insert(0, '.'); from security_overview import SecurityOverview; print('Python file is syntactically valid')
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'SecurityOverview' from 'security_overview' (/Users/alex/choochoo/choochoo/skills/security-overview/security_overview.py)

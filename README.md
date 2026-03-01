@@ -17,6 +17,7 @@ Provider-agnostic agent skills for intentional context control. Load only what m
 **Codex**
 ```
 git clone https://github.com/kahanscious/choochoo ~/.codex/choochoo
+# Create skills directory if it doesn't exist
 mkdir -p ~/.agents/skills
 ln -s ~/.codex/choochoo/skills ~/.agents/skills/choochoo
 ```
@@ -24,6 +25,7 @@ ln -s ~/.codex/choochoo/skills ~/.agents/skills/choochoo
 **OpenCode**
 ```
 git clone https://github.com/kahanscious/choochoo ~/.config/opencode/choochoo
+# Create skills directory if it doesn't exist
 mkdir -p ~/.config/opencode/skills
 ln -s ~/.config/opencode/choochoo/skills ~/.config/opencode/skills/choochoo
 ```

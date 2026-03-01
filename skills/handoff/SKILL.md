@@ -193,7 +193,7 @@ level: 2
 
 ---
 
-# Handoff Summary (v1)
+# Handoff Summary
 
 ...
 
@@ -219,7 +219,7 @@ Output Structure (Mandatory)
 
 The handoff printed in chat MUST follow this structure:
 
-# Handoff Summary (v1)
+# Handoff Summary
 
 ## Focus
 <focus string or "General">
